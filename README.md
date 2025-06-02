@@ -1,2 +1,2 @@
 # Simple-TODO-list
-a simple todo list website , demostrating simple JavaScript DOM concept.
+a simple todo list website , demostrating simple JavaScript DOM concepts.
